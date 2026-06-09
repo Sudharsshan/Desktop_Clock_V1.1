@@ -306,6 +306,14 @@ Project Photos:
 
 https://photos.app.goo.gl/xuiCg68TFanPNWjKA
 
+![Picture of ESP8266 controlling LCD 16x2 display](images/20260403_190853.heic)
+![Picture of ESP8266 controlling LCD 16x2 display](images/20260403_210510.heic)
+![Picture of ESP8266 controlling LCD 16x2 display](images/20260403_210526.heic)
+![Picture of ESP8266 controlling LCD 16x2 display](images/20260403_214247.heic)
+![Picture of ESP8266 controlling LCD 16x2 display](images/20260403_220626.heic)
+![Picture of ESP8266 controlling LCD 16x2 display](images/20260403_222918.heic)
+![Picture of ESP8266 controlling LCD 16x2 display](images/20260403_222923.heic)
+
 ---
 
 # Repository
